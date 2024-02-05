@@ -28,8 +28,8 @@ A comprehensive dashboard was created using Power BI to visually represent the a
 ![image](https://github.com/darshan8055/Insights-to-the-Product-Strategy-Team-in-the-Banking-Domain/assets/40797005/9aec3d2b-3db1-4b75-909e-bf3a845c7785)
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiMDY2NDEtNzVhNC00MzM2LWE4YzItZjE4YTljMWQ2YWExIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectiondf4736c60bc754245be3">
-LINK TO DASHBOARD</a>
+LINK TO DASHBOARD</a> <br>
 
-Conclusion
+<h1>Conclusion</h1>
 This project underscores the importance of data-driven decision-making in product development and strategy. By leveraging detailed customer data and market research, Mitron Bank can tailor its new credit card offerings to meet the nuanced needs of its diverse customer base, thereby enhancing customer satisfaction and competitive positioning in the financial market.
 
