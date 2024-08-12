@@ -25,7 +25,7 @@ Based on the insights gathered, recommendations were made for credit card featur
 <h1>Dashboard Design</h1>
 A comprehensive dashboard was created using Power BI to visually represent the analysis and insights. Designed for the top-level management and product strategy team of Mitron Bank, the dashboard is intuitive and self-explanatory, facilitating easy understanding of the key findings and recommendations.
 
-![image](https://github.com/darshan8055/Insights-to-the-Product-Strategy-Team-in-the-Banking-Domain/assets/40797005/9aec3d2b-3db1-4b75-909e-bf3a845c7785)
+![image](https://github.com/user-attachments/assets/9d72883e-d452-44b4-8d73-9e0cfaa74b22)
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiMDY2NDEtNzVhNC00MzM2LWE4YzItZjE4YTljMWQ2YWExIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectiondf4736c60bc754245be3">
 LINK TO DASHBOARD</a> <br>
