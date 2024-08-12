@@ -1,7 +1,7 @@
-# Mitron Bank Credit Card Analysis Project
+# Evergreen Bank Credit Card Analysis Project
 
 <h1>Overview</h1>
-Mitron Bank, a legacy financial institution based in Hyderabad, aims to introduce a new line of credit cards to broaden its product offerings and reach in the financial market. AtliQ Data Services, leveraging a sample dataset of 4000 customers across five cities, has embarked on a pilot project to tailor these credit cards to customer needs and market trends. This analysis, conducted by Peter Pandey, a data analyst at AtliQ Data Services, seeks to provide actionable, data-driven recommendations to guide Mitron Bank's strategy.
+Evergreen Bank, a legacy financial institution based in Hyderabad, aims to introduce a new line of credit cards to broaden its product offerings and reach in the financial market. AtliQ Data Services, leveraging a sample dataset of 4000 customers across five cities, has embarked on a pilot project to tailor these credit cards to customer needs and market trends. This analysis, conducted by Peter Pandey, a data analyst at AtliQ Data Services, seeks to provide actionable, data-driven recommendations to guide Mitron Bank's strategy.
 
 <h1>Project Objective</h1>
 The objective of this project was to analyze customer spending behaviors, demographic information, and financial preferences to offer targeted credit card features. By identifying key customer segments and their spending insights, this analysis aims to assist Mitron Bank in introducing a credit card product that meets market demand and enhances customer satisfaction.
